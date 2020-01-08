@@ -1,4 +1,3 @@
-
 ; Complete the bonAppetit function below.
 (defn bonAppetit [bill k b]
    (let [not-pay (nth bill k)
