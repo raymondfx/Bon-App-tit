@@ -46,4 +46,4 @@ Sample Output 1
 
 Bon Appetit
 Explanation 1
-Anna didn't eat item , but she shared the rest of the items with Brian. The total cost of the shared items is  and, split in half, the cost per person is . Because , we print Bon Appetit on a new line.
+Anna didn't eat item bill[1] = 10, but she shared the rest of the items with Brian. The total cost of the shared items is 3 + 4 + 9 = 14  and, split in half, the cost per person is b actual = 7. Because b actual = b charged = 7 , we print Bon Appetit on a new line.
