@@ -12,9 +12,9 @@ def bonAppetit(bill, k, b):
     for i in range(len(bill)):
         if(i!=k):
             count+=bill[i]
-    pay = count//2
-    if(pay != b):
-        print(b-pay)
+    payment = count//2
+    if(payment != b):
+        print(b-payment)
     else:
         print("Bon Appetit")
 
